@@ -1,4 +1,4 @@
 interface:
-  display_name: "女性换装导演"
-  short_description: "生成女性多套穿搭拼贴首帧、卡点换装时间轴与视频提示词"
-  default_prompt: "使用 $female-outfit-director 为同一位成年女性设计五套穿搭拼贴首帧和卡点换装视频脚本。"
+  display_name: "电商服装换装导演"
+  short_description: "为电商服装买家生成模特换装首帧、商品搭配方案与短视频提示词"
+  default_prompt: "使用 $ecommerce-fashion-tryon-director，按模特、服装图、穿搭风格、套数、画幅、时长和输出模式生成电商服装换装素材方案。"
